@@ -1,0 +1,28 @@
+Condicion de Aprobacion : Generar un sitio web online propio.
+Ejemplos en Github
+Partiendo de los Templates, se realiza la web.
+Fuentes y Bibliografia w3school, abm funcionando
+
+Emulador web XAMPP (Descargar): permite correr codigo de servidor, 
+Las aplicaciones tienen dos partes : Servidor|Cliente
+Cliente: HTML + CSS + Java Script
+Server: PHP (lenguaje del servidor), debe encontrarse en un lugar particular y conectado a un servidor, por xampp
+el servidor es APACHE, en la carpeta HTDOC, tambien utilizaremos MYSQL	
+'-------------------
+HTML: escribimos en sublime text 2, hmtl nos permite interpretar informacion a travez de un explorador, 
+estructura CSS(hoja de estilo en cascada) (Template para boostrap)
+<h1> para escribir en el html
+http://localhost:8080/claseUno/: Corre desde el servidor web
+'-------------------Meter codigo PHP en HTML
+PHP: para escribirlo el  html hay que abrir un tag especial <?php ?>
+	echo: nos permite mostrar algo hacia afuera
+para que funcione codigo php, debe haber un archivo.php en el servidor web
+'-------------------Meter codigo HTML en PHP
+echo "<H2> "hola php" </H2>
+----------------------
+para declarar variables usamos $, y no hace falta declarar el tipo
+se concatena con el punto (.) ej: echo "El numero es :" . $Numero
+---------------------Clonar archivo a github,
+click derecho, guit gui , clon existing repository, source location direccion que brinda el github, target directory
+donde se va a clonar, con carpeta nueva , luego de clonarlo nos abrira un Git Gui nuevo
+
