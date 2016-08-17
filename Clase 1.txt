@@ -26,3 +26,6 @@ se concatena con el punto (.) ej: echo "El numero es :" . $Numero
 click derecho, guit gui , clon existing repository, source location direccion que brinda el github, target directory
 donde se va a clonar, con carpeta nueva , luego de clonarlo nos abrira un Git Gui nuevo
 
+octavio.com.ar
+
+
