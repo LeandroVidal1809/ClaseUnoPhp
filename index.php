@@ -95,6 +95,7 @@
 					$total=$cont1+$cont2+$cont3+$cont4+$cont5+$cont6+$cont7+$cont8+$cont9+$cont10;
 					echo "<br>";	
 					echo $total;
+					echo "-------------------------------";
 			//cargo un random y veo si es par o impar
 		//	echo "El Numero aleatorio es : " . $Numero  ;
 		//	echo "<br>";
